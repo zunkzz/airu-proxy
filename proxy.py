@@ -28,7 +28,7 @@ print("""
 #                    aaaaaaaaaaaaaaaaa           aaaaaa        *                #
 #      *               aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                           #
 #                         aaaaaaaaaaaaaaaaaaaaaaaa Airu Moonlight               #
-#                      *      aaaaaaaaaaaaaaaa     放棄された Proxy             #
+#                      *      aaaaaaaaaaaaaaaa     放棄された Proxy               #
 #################################################################################""")
 
 resposta = requests.get('https://free-proxy-list.net/')
